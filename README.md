@@ -1,6 +1,6 @@
 # hamdy_packages-resizeimages
 
-#Tested package by hamdy ahmed.
+#Tested Laravel Package by hamdy ahmed.
 This Package for resize images without need to uploading them .only you need to specific images dir .
 
 #Features:
